@@ -3,7 +3,7 @@
     <br>
 </p>
 
-wx-react-service 主要为 wx-react-app 和 wx-react-mobile 提供接口服务 
+wx-react-service 主要为 wx-react-app 和 wx-mobile-app 提供接口服务 
 
 wx-react-service 基于 Yii2 的 PHP 框架上进行开发 
 
